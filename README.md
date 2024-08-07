@@ -2,4 +2,4 @@
 
 - 📚 I’m currently working on a school project with Alura
 - ✨ I’m currently learning JavaScript language
-- 📫 How to reach me: liviagadelharuoso@outlook.com
+- 📫 You can contact me using my e-mail liviagadelharuoso@outlook.com
